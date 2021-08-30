@@ -60,7 +60,10 @@ Form is the oldest dynamic part of the webpage. Its old usage was to store user 
 Why do we need form validation?
 The input in forms, if they are stored in databases and someone writes a query in it then it can execute the query. And several other reasons we need to make sure input is valid and not garbage value. We validate form both on the front end and on the backend.
 
-What 
+What is DOM?
+When page loads, JavaScript creates a tree like structure of the page. Its called DOM. It is how in JavaScript the page Object is.
+
+
 
 
 
