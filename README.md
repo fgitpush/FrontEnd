@@ -51,6 +51,17 @@ Why do we use browsers?
 browsers renders the webpage. We can use terminal and send CURL request or use a library and send request and see data. The browser is very specialized and dedicated way to see the data.
 
 
+What is Semantic html?
+HTML with a meaning. They are tags which are standard in almost all sites and hence. Like I can define <div class="header"></div> or use the semantic HTML <header></header> for it. Same goes footer sidebar, article etc.
+
+Why do we need Forms?
+Form is the oldest dynamic part of the webpage. Its old usage was to store user input in either database or send email or send to another page.
+
+Why do we need form validation?
+The input in forms, if they are stored in databases and someone writes a query in it then it can execute the query. And several other reasons we need to make sure input is valid and not garbage value. We validate form both on the front end and on the backend.
+
+What 
+
 
 
 
